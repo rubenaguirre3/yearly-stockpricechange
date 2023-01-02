@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 Sub stock_analysis():
     'Set Dimensions'
     Dim total As Double
