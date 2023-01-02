@@ -1,6 +1,3 @@
-# yearly-stockpricechange
-***Analysis of yearly opening &amp; closing stock price change script***
-
 Sub stock_analysis():
     'Set Dimensions'
     Dim total As Double
